@@ -1,4 +1,4 @@
-# Classification problem of Bank's Telemarketing Campaign
+# Classification Problem of Bank's Telemarketing Campaign
 
 
 ### Introduction
@@ -15,7 +15,7 @@ Our goal is to build a model to predict if a prospect will subscribe to a term d
 
 Using historical data,  we build a model to predict future investors in bank term deposit in order to develop a targeted telemarketing strategy for the bank of Portugal. 
 
-Data Analysis and Coding Technicalities 
+### Data Analysis and Coding Technicalities 
 
 We analyze the data to determine the rate of subscribers per category within each feature. 
 
@@ -23,6 +23,9 @@ We used a loop function to calculate the percentage of subscribers from prospect
 
 
 
-Age
+# Age
+
+![image](https://user-images.githubusercontent.com/44559346/206238694-45f84fda-487f-46a0-87c3-75c3a904743f.png)
+
 
 
