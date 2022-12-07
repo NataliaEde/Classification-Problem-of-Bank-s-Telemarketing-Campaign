@@ -71,6 +71,6 @@ Pay close attention to socioeconomic data:
 
 Target telemarketing calls toward select the individuals who belong to a specific age group and occupation. Seniors, and Students, and Retired Individuals are more likely to subscribe to a term deposit. 
 
-Conduct the campaign during specific months. March, September, and October have been shown to have a higher rate of subscriptions. 
+Conduct the campaign during specific months. March, September, and October have been shown to have a higher rate of subscriptions.  
 
 
