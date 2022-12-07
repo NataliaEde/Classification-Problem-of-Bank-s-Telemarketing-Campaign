@@ -23,9 +23,12 @@ We used a loop function to calculate the percentage of subscribers from prospect
 
 
 
-# Age
+#### Age
 
 ![image](https://user-images.githubusercontent.com/44559346/206238694-45f84fda-487f-46a0-87c3-75c3a904743f.png)
 
+#### Occupation
+
+![image](https://user-images.githubusercontent.com/44559346/206240767-fe3dfcb6-788e-41bc-ba49-4070988b5267.png)
 
 
