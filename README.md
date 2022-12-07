@@ -31,4 +31,16 @@ We used a loop function to calculate the percentage of subscribers from prospect
 
 ![image](https://user-images.githubusercontent.com/44559346/206240767-fe3dfcb6-788e-41bc-ba49-4070988b5267.png)
 
+#### Preparing to Model the Data 
+
+We used a pipeline to streamline several steps that are required to pass through the data before implementing the predictive classified model. The pipeline was also helpful when we split the data into training and testing because we did not want the information from training data to be leaked into the unseen testing data.
+
+We inserted the pipeline as part of a function so that it can loop around when we employed the various classified models. 
+
+![image](https://user-images.githubusercontent.com/44559346/206242169-21a6d050-4091-46c7-a082-bd6866c2d841.png)
+
+
+
+. 
+
 
