@@ -1,5 +1,8 @@
 # Classification Problem of Bank's Telemarketing Campaign
 
+![image](https://user-images.githubusercontent.com/44559346/206246271-d6dbdc19-82bc-4bb2-a14b-ce7c7f4eb45b.png)
+
+
 
 ### Introduction
 
@@ -41,6 +44,33 @@ We inserted the pipeline as part of a function so that it can loop around when w
 
 
 
-. 
+#### Final Model with Hypertuning -  Random Forest  
+ 
+ GridSEarchCV suggested the following criteria, which produced the following results:
+
+ {'model__criterion': 'gini', <br />
+'model__max_depth': 200, <br />
+ 'model__max_features': 14, <br />
+ 'model__n_estimators': 900} <br />
+
+* Training_Accuracy: 0.99 <br />
+* Test_Accuracy: 0.94<br />
+* Precision: 0.936<br />
+* Recall: 0.92<br />
+* F1_Score: 0.92<br />
+
+
+
+### Conclusions:
+
+In this project,we implemented data analysis and predictive classified models to predict term deposit subscriptions at a Portuguese bank institution. With the accuracy of 93% using Random Forest, the following business recommendations are:
+
+Pay close attention to socioeconomic data:
+* 3 Month Euribor rate - The Euribor rate is based on the average interest rates at which Eurozone banks lend funds to other banks. Ramp up the campaign when rates are high. A prospect is more likely to invest in a term deposit knowing that they will receive a high interest rate.
+* Consumer Confidence Index - Individuals are more likely to invest if their financial situation is good and if the country’s outlook is optimistic. 
+
+Target telemarketing calls toward select the individuals who belong to a specific age group and occupation. Seniors, and Students, and Retired Individuals are more likely to subscribe to a term deposit. 
+
+Conduct the campaign during specific months. March, September, and October have been shown to have a higher rate of subscriptions. 
 
 
