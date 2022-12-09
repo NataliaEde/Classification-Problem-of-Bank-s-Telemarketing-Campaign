@@ -75,8 +75,8 @@ Conduct the campaign during specific months. March, September, and October have 
 
 #### Repository Structure
 
-Notebook  PDF - PDF Version of the Jupyter Notebook <br />
-Notebook.ipynb the Jupyter Notebook in ipynb  <br />
-Presentation  - Non technical business presentation <br />
+Notebook  PDF - PDF Version of the code of Jupyter Notebook <br />
+Jupyter Notebook.ipynb the code in ipynb  <br />
+Presentation  - Non-technical business presentation <br />
 
 
