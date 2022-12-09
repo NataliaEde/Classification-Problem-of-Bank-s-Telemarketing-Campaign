@@ -73,4 +73,10 @@ Target telemarketing calls toward select the individuals who belong to a specifi
 
 Conduct the campaign during specific months. March, September, and October have been shown to have a higher rate of subscriptions.  
 
+#### Repository Structure
+
+Notebook  PDF - PDF Version of the Jupyter Notebook
+Notebook.ipynb the Jupyter Notebook in ipynb 
+Presentation  - Non technical business presentation
+
 
