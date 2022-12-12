@@ -40,9 +40,7 @@ We used a pipeline to streamline several steps that are required to pass through
 
 We inserted the pipeline as part of a function so that it can loop around when we employed the various classified models. 
 
-![image](https://user-images.githubusercontent.com/44559346/206242169-21a6d050-4091-46c7-a082-bd6866c2d841.png)
-
-
+![image](https://user-images.githubusercontent.com/44559346/206961932-b77f80bc-4e42-4494-a25c-20e5b1c35ca4.png)
 
 #### Final Model with Hypertuning -  Random Forest  
  
@@ -54,16 +52,16 @@ We inserted the pipeline as part of a function so that it can loop around when w
  'model__n_estimators': 900} <br />
 
 * Training_Accuracy: 0.99 <br />
-* Test_Accuracy: 0.94<br />
-* Precision: 0.936<br />
-* Recall: 0.92<br />
-* F1_Score: 0.92<br />
+* Test_Accuracy: 0.87<br />
+* Precision: 0.9876<br />
+* Recall: 0.87<br />
+* F1_Score: 0.87<br />
 
 
 
 ### Conclusions:
 
-In this project,we implemented data analysis and predictive classified models to predict term deposit subscriptions at a Portuguese bank institution. With the accuracy of 93% using Random Forest, the following business recommendations are:
+In this project,we implemented data analysis and predictive classified models to predict term deposit subscriptions at a Portuguese bank institution. With the F1 score of 87% using Random Forest Classifier, the following business recommendations are:
 
 Pay close attention to socioeconomic data:
 * 3 Month Euribor rate - The Euribor rate is based on the average interest rates at which Eurozone banks lend funds to other banks. Ramp up the campaign when rates are high. A prospect is more likely to invest in a term deposit knowing that they will receive a high interest rate.
